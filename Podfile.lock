@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.4.1)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - PinterestLayout (1.0.3)
+
+DEPENDENCIES:
+  - Moya
+  - PinterestLayout
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Moya
+    - PinterestLayout
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  PinterestLayout: f1c7ec0254ffa842d69f1b43e4436c8ded4359b9
+
+PODFILE CHECKSUM: ab6be54d75e863da03127778d1ecd950acf07214
+
+COCOAPODS: 1.10.1
